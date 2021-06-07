@@ -120,6 +120,7 @@ h4,h5,h6{
     padding:15px;
     justify-content: center;
     letter-spacing: 1.2px;
+    flex-wrap:wrap;
 }
 .sidelist{
     display:flex;
